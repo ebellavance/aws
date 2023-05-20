@@ -3,5 +3,8 @@
 ## cloudformation
 Cloudformation template to deploy infrastructure
 
+## drawio
+architecture diagrams
+
 ## python
 Code to retrieve information from AWS Organization
